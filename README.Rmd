@@ -27,17 +27,23 @@ Use the iris dataset in R to answer the following question:
 
 > Estimate the parameters of the linear regression. What is the slope?
 
+ANSWER
+
 ```{r}
 
 ```
 
 > Is the slope significantly different from zero?
 
+ANSWER
+
 ```{r}
 
 ```
 
-> Choose one species of your choice and fit the same linear model to the data for that species only. What is the slope? What is the correlation coefficient? Create a graph with scatterplot and linear regression line.
+> Choose one species of your choice and fit the same linear model to the data for that species only. Which species did you choose? What is the slope? What is the correlation coefficient? Create a graph with scatterplot and linear regression line.
+
+ANSWERS
 
 ```{r}
 
