@@ -9,7 +9,12 @@ Fill out this report and submit it as your completed assignment.
 
 You can view the R markdown script that created this report here: [README.Rmd](README.Rmd)
 
-Use the iris dataset in R to answer the following question:
+Use the iris dataset in R to answer the following questions. As a reminder, iris is already loaded in R so you can print it like this:
+
+```{r print-iris, eval=FALSE}
+iris
+```
+
 
 > **How are petal width and petal length related in irises?**
 >
@@ -20,6 +25,8 @@ Use the iris dataset in R to answer the following question:
 ```
 
 > Calculate the correlation between the two variables.
+
+ANSWER
 
 ```{r}
 
